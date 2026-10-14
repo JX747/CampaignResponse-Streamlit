@@ -6,3 +6,4 @@ scikit-learn
 dash_bootstrap_components
 xgboost
 gunicorn
+streamlit
